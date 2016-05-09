@@ -10,7 +10,17 @@
      { 
       "matchDay": "Wednesday, June 1",
       "team1":"Munsiyari Boys",
-      "team2":"Haldwai Boys"
+      "team2":"Haldwani Boys"
+    },
+     { 
+      "matchDay": "Wednesday, June 2",
+      "team1":"Delhi United",
+      "team2":"Pithoragarh Panthers"
+    },
+     { 
+      "matchDay": "Wednesday, June 3",
+      "team1":"Tejam Tigers",
+      "team2":"Nachni Netters"
     }
   ]
  }
