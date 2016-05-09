@@ -1,33 +1,5 @@
 {
   "message": "JSON Response OK",
   "code": 200,
-  "teams": [
-    { 
-      "name": "Munsiyari Boys 1" 
-    },
-    { 
-      "name": "Munsiyari Boys 2" 
-    },
-    { 
-      "name": "Munsiyari Boys 3" 
-    },
-    { 
-      "name": "Delhi United" 
-    },
-    {
-      "name": "Haldwani Boys" 
-    },
-    { 
-     "name": "Didihat Devils" 
-    },
-    { 
-      "name": "Darkot Dons" 
-    },
-    { 
-      "name": "Pithoragarh Panthers" 
-    },
-    { 
-      "name": "Dummar United" 
-    }
-  ]
+  "teams": []
  }
