@@ -1,0 +1,39 @@
+{
+  "message": "JSON Response OK",
+  "code": 200,
+  "matchDetails": [
+    { 
+      "id":"1",
+      "matchDay": "Wednesday, June 1",
+      "matchStatus":"done",
+      "matchKickOffTime":"4:00 PM",
+      "team1":"Darkot Dons",
+      "team2":"Dummer Devils",
+      "team1Score":"0",
+      "team2Score":"1"
+    },
+     { 
+     "id":"2",
+      "matchDay": "Wednesday, June 1",
+      "matchStatus":"done",
+      "matchKickOffTime":"4:00 PM",
+      "matchDay": "Wednesday, June 1",
+      "team1":"Munsiyari Boys",
+      "team2":"Haldwani Boys",
+       "team1Score":"5",
+      "team2Score":"0"
+      
+    },
+     { 
+      "id":"3",
+      "matchDay": "Friday, June 3",
+      "matchStatus":"future",
+      "matchKickOffTime":"4:00 PM",
+      "team1":"Almora Avengers",
+      "team2":"Bunga Buzzers",
+      "team1Score":"",
+      "team2Score":""
+    }
+    
+  ]
+ }
