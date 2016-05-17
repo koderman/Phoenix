@@ -39,7 +39,9 @@
       "team1":"Almora Avengers",
       "team2":"Bunga Buzzers",
       "team1Score":"",
-      "team2Score":""
+      "team2Score":"",
+      "team1Scorers":[],
+      "team2Scorers":[]
     },
     { 
       "id":"4",
@@ -50,7 +52,9 @@
       "team1":"Team 7",
       "team2":"Team 8",
       "team1Score":"",
-      "team2Score":""
+      "team2Score":"",
+       "team1Scorers":[],
+      "team2Scorers":[]
     },
     { 
       "id":"5",
@@ -61,7 +65,9 @@
       "team1":"Team 9",
       "team2":"Team 10",
       "team1Score":"",
-      "team2Score":""
+      "team2Score":"",
+       "team1Scorers":[],
+      "team2Scorers":[]
     },
     { 
       "id":"6",
@@ -72,7 +78,9 @@
       "team1":"Team 11",
       "team2":"Team 12",
       "team1Score":"",
-      "team2Score":""
+      "team2Score":"",
+       "team1Scorers":[],
+      "team2Scorers":[]
     },
     { 
       "id":"7",
@@ -83,7 +91,9 @@
       "team1":"Team 13",
       "team2":"Team 14",
       "team1Score":"",
-      "team2Score":""
+      "team2Score":"",
+       "team1Scorers":[],
+      "team2Scorers":[]
     },
     { 
       "id":"8",
@@ -94,7 +104,9 @@
       "team1":"Team 15",
       "team2":"Team 16",
       "team1Score":"",
-      "team2Score":""
+      "team2Score":"",
+       "team1Scorers":[],
+      "team2Scorers":[]
     }
     
   ]
