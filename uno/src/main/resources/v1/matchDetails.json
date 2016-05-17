@@ -1,0 +1,97 @@
+
+{
+  "message": "JSON Response OK",
+  "code": 200,
+  "matchDetails": [
+    { 
+      "id":"1",
+      "matchDay": "WED JUN 1, 2016",
+      "matchRound":"Knockout",
+      "matchStatus":"done",
+      "matchKickOffTime":"4:00 PM",
+      "team1":"Darkot Dons",
+      "team2":"Dummer Devils",
+      "team1Score":"0",
+      "team2Score":"1"
+    },
+     { 
+     "id":"2",
+      "matchDay": "WED JUN 1, 2016",
+      "matchRound":"Knockout",
+      "matchStatus":"done",
+      "matchKickOffTime":"5:00 PM",
+      "team1":"Munsiyari Boys",
+      "team2":"Haldwani Boys",
+      "team1Score":"5",
+      "team2Score":"0"
+      
+    },
+     { 
+      "id":"3",
+      "matchDay": "THU JUN 2, 2016",
+      "matchRound":"Knockout",
+      "matchStatus":"future",
+      "matchKickOffTime":"4:00 PM",
+      "team1":"Almora Avengers",
+      "team2":"Bunga Buzzers",
+      "team1Score":"",
+      "team2Score":""
+    },
+    { 
+      "id":"4",
+      "matchDay": "THU JUN 2, 2016",
+      "matchRound":"Knockout",
+      "matchStatus":"future",
+      "matchKickOffTime":"5:00 PM",
+      "team1":"Team 7",
+      "team2":"Team 8",
+      "team1Score":"",
+      "team2Score":""
+    },
+    { 
+      "id":"5",
+      "matchDay": "FRI JUN 3, 2016",
+      "matchRound":"Knockout",
+      "matchStatus":"future",
+      "matchKickOffTime":"4:00 PM",
+      "team1":"Team 9",
+      "team2":"Team 10",
+      "team1Score":"",
+      "team2Score":""
+    },
+    { 
+      "id":"6",
+      "matchDay": "FRI JUN 3, 2016",
+      "matchRound":"Knockout",
+      "matchStatus":"future",
+      "matchKickOffTime":"5:00 PM",
+      "team1":"Team 11",
+      "team2":"Team 12",
+      "team1Score":"",
+      "team2Score":""
+    },
+    { 
+      "id":"7",
+      "matchDay": "SAT JUN 4, 2016",
+      "matchRound":"Knockout",
+      "matchStatus":"future",
+      "matchKickOffTime":"4:00 PM",
+      "team1":"Team 13",
+      "team2":"Team 14",
+      "team1Score":"",
+      "team2Score":""
+    },
+    { 
+      "id":"8",
+      "matchDay": "FRI JUN 3, 2016",
+      "matchRound":"Knockout",
+      "matchStatus":"future",
+      "matchKickOffTime":"5:00 PM",
+      "team1":"Team 15",
+      "team2":"Team 16",
+      "team1Score":"",
+      "team2Score":""
+    }
+    
+  ]
+ }
