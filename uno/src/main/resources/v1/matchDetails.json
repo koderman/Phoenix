@@ -14,7 +14,7 @@
       "team1Score":"3",
       "team2Score":"1",
       "team1Scorers":["Pawan","Ruchi","Ruchin"],
-      "team1Scorers":["Rohit"]
+      "team2Scorers":["Rohit"]
     },
      { 
      "id":"2",
@@ -27,7 +27,7 @@
       "team1Score":"5",
       "team2Score":"0",
       "team1Scorers":["Sushant","Vinay","BHavook","Nikhil","Kunal"],
-      "team1Scorers":[]
+      "team2Scorers":[]
       
     },
      { 
