@@ -60,7 +60,7 @@
     { 
       "id":"7",
       "matchDay": "Sunday, June 5",
-      "matchKickOffTime":"4:00 PM",
+      "matchKickOffTime":"",
       "team1":"Team 13",
       "team2":"Team 14",
       "team1Score":"4",
@@ -69,7 +69,7 @@
     { 
       "id":"8",
       "matchDay": "Sunday, June 5",
-      "matchKickOffTime":"5:00 PM",
+      "matchKickOffTime":"",
       "team1":"Team 15",
       "team2":"Team 16",
       "team1Score":"4",
