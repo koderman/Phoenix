@@ -1,0 +1,26 @@
+{
+  "message": "JSON Response OK",
+  "code": 200,
+  "scorers": [
+    { 
+      "scorerName": "Ruchin Rawat",
+      "team":"Delhi United",
+      "goals":"13"
+    },
+    { 
+      "scorerName": "Ruchi Rawat",
+      "team":"Nanasem United",
+      "goals":"10"
+    },
+     { 
+      "scorerName": "Mohit Rawat",
+      "team":"Almora Avengers abig name team",
+      "goals":"8"
+    },
+     { 
+      "scorerName": "Rahul Pangtey",
+      "team":"Tejam Titans",
+      "goals":"6"
+    }
+  ]
+ }
