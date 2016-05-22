@@ -3,14 +3,14 @@
   "code": 200,
   "scorers": [
     { 
+      "scorerName": "Ruchi Rawat",
+      "team":"Nanasem United",
+      "goals":"14"
+    },
+    { 
       "scorerName": "Ruchin Rawat",
       "team":"Delhi United",
       "goals":"13"
-    },
-    { 
-      "scorerName": "Ruchi Rawat",
-      "team":"Nanasem United",
-      "goals":"10"
     },
      { 
       "scorerName": "Mohit Rawat",
