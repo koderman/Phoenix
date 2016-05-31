@@ -4,71 +4,67 @@
   "teams": [
     {
       "id": "1",
-      "name": "Team 1"
+      "name": "TT & MD JOHARI BOYS-A"
     },
     {
       "id": "2",
-      "name": "Team 2"
+      "name": "TT & MD JOHARI BOYS-B"
     },
     {
       "id": "3",
-      "name": "Team 3"
+      "name": "DEHRADUN FC"
     },
     {
       "id": "4",
-      "name": "Team 4"
+      "name": "FC TALLA BUNGA"
     },
     {
       "id": "5",
-      "name": "Team 5"
+      "name": "BARRY ELEVEN DELHI"
     },
     {
       "id": "6",
-      "name": "Team 6"
+      "name": "NEW BOYS RANTHI"
     },
     {
       "id": "7",
-      "name": "Team 7"
+      "name": "MBFC A"
     },
     {
       "id": "8",
-      "name": "Team 8"
+      "name": "MBFC B"
     },
     {
       "id": "9",
-      "name": "Team 9"
+      "name": "MBFC C"
     },
     {
       "id": "10",
-      "name": "Team 10"
+      "name": "MBFC D"
     },
     {
       "id": "11",
-      "name": "Team 11"
+      "name": "GHORPATTA HEROS"
     },
     {
       "id": "12",
-      "name": "Team 12"
+      "name": "BILJU TIGER KD"
     },
     {
       "id": "13",
-      "name": "Team 13"
+      "name": "YTFC KANPUR"
     },
     {
       "id": "14",
-      "name": "Team 14"
+      "name": "BILJU ELEVEN TALLA DUMMAR"
     },
     {
       "id": "15",
-      "name": "Team 15"
+      "name": "DIDIHAT FC"
     },
     {
       "id": "16",
       "name": "Team 16"
-    },
-    {
-      "id": "17",
-      "name": "Team Dummar"
     }
   ]
 }
