@@ -4,67 +4,115 @@
   "teams": [
     {
       "id": "1",
-      "name": "TT & MD JOHARI BOYS-A"
+      "name": "S.S.M. OLD BOYS A"
     },
     {
       "id": "2",
-      "name": "TT & MD JOHARI BOYS-B"
+      "name": "MUNSIYARI BOYS C"
     },
     {
       "id": "3",
-      "name": "DEHRADUN FC"
+      "name": "BAGESHWAR"
     },
     {
       "id": "4",
-      "name": "FC TALLA BUNGA"
+      "name": "JOHARI BOYS B"
     },
     {
       "id": "5",
-      "name": "BARRY ELEVEN DELHI"
+      "name": "BILJU TIGERS"
     },
     {
       "id": "6",
-      "name": "NEW BOYS RANTHI"
+      "name": "BILJU TIGERS"
     },
-    {
+     {
       "id": "7",
-      "name": "MBFC A"
+      "name": "Y.T.F.C. KANPUR"
     },
     {
       "id": "8",
-      "name": "MBFC B"
+      "name": "MUNSIYARI BOYS B"
     },
-    {
+     {
       "id": "9",
-      "name": "MBFC C"
+      "name": "F.C. TALL BUNGA"
     },
-    {
+     {
       "id": "10",
-      "name": "MBFC D"
+      "name": "DARKOT A"
     },
     {
       "id": "11",
-      "name": "GHORPATTA HEROS"
+      "name": "DIDIHAT"
     },
     {
       "id": "12",
-      "name": "BILJU TIGER KD"
+      "name": "LASPA"
     },
     {
       "id": "13",
-      "name": "YTFC KANPUR"
+      "name": "BARRY ELEVEN DELHI"
     },
     {
       "id": "14",
-      "name": "BILJU ELEVEN TALLA DUMMAR"
+      "name": "JAITI BOYS A"
     },
-    {
+     {
       "id": "15",
-      "name": "DIDIHAT FC"
+      "name": "JOHARI BOYS A"
     },
     {
       "id": "16",
-      "name": "Team 16"
+      "name": "DARKOT B"
+    },
+    {
+      "id": "17",
+      "name": "JOHARI BOYS A"
+    },
+    {
+      "id": "18",
+      "name": "JAITI BOYS B"
+    },
+    {
+      "id": "19",
+      "name": "DEHRADUN FC"
+    },
+    {
+      "id": "20",
+      "name": "B.Y.C DARANTI"
+    },
+    {
+      "id": "21",
+      "name": "MUNSIYARI BOYS D"
+    },
+    {
+      "id": "22",
+      "name": "BILJU ELEVEN TD"
+    },
+    {
+      "id": "23",
+      "name": "J.S.S LUCKNOW"
+    },
+    {
+      "id": "24",
+      "name": "STATION BHUMKAPANI LOCAL BOYS"
+    },
+     {
+      "id": "25",
+      "name": "S.S.M. OLD BOYS B"
+    },
+    {
+      "id": "26",
+      "name": "ASSAM REGIMENT"
+    },
+    {
+      "id": "27",
+      "name": "NEW BOYS RANTHI"
+    },
+     {
+      "id": "28",
+      "name": "MUNSIYARI BOYS A"
     }
   ]
 }
