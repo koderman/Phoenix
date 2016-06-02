@@ -3,7 +3,7 @@
 	"code": 200,
 	"matchDetails": [{
 			"id": "1",
-			"matchDay": "WED JUN 1, 2016",
+			"matchDay": "BYE",
 			"matchStatus": "bye",
 			"matchKickOffTime": "",
 			"matchPhase": "FIRST ROUND",
@@ -15,7 +15,7 @@
 			"team2Scorers": []
 		}, {
 			"id": "2",
-			"matchDay": "WED JUN 1, 2016",
+			"matchDay": "BYE",
 			"matchStatus": "bye",
 			"matchKickOffTime": "",
 			"matchPhase": "FIRST ROUND",
@@ -27,7 +27,7 @@
 			"team2Scorers": []
 		}, {
 			"id": "3",
-			"matchDay": "WED JUN 1, 2016",
+			"matchDay": "BYE",
 			"matchStatus": "bye",
 			"matchKickOffTime": "",
 			"matchPhase": "FIRST ROUND",
@@ -39,7 +39,7 @@
 			"team2Scorers": []
 		}, {
 			"id": "4",
-			"matchDay": "WED JUN 1, 2016",
+			"matchDay": "BYE",
 			"matchStatus": "bye",
 			"matchKickOffTime": "",
 			"matchPhase": "FIRST ROUND",
