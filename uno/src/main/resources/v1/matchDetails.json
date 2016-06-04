@@ -52,7 +52,7 @@
 		}, {
 			"id": "5",
 			"matchDay": "THU JUN 3, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "3:00 PM",
 			"matchPhase": "FIRST ROUND",
 			"team1": "MUNSIYARI BOYS D",
@@ -64,8 +64,8 @@
 
 		}, {
 			"id": "6",
-			"matchDay": "THU JUN 2, 2016",
-			"matchStatus": "future",
+			"matchDay": "THU JUN 3, 2016",
+			"matchStatus": "done",
 			"matchKickOffTime": "4:30 PM",
 			"matchPhase": "FIRST ROUND",
 			"team1": "DARKOT B",
