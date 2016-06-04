@@ -51,7 +51,7 @@
 			"team2Scorers": []
 		}, {
 			"id": "5",
-			"matchDay": "THU JUN 3, 2016",
+			"matchDay": "FRI JUN 3, 2016",
 			"matchStatus": "done",
 			"matchKickOffTime": "3:00 PM",
 			"matchPhase": "FIRST ROUND",
@@ -64,7 +64,7 @@
 
 		}, {
 			"id": "6",
-			"matchDay": "THU JUN 3, 2016",
+			"matchDay": "FRI JUN 3, 2016",
 			"matchStatus": "done",
 			"matchKickOffTime": "4:30 PM",
 			"matchPhase": "FIRST ROUND",
@@ -76,7 +76,7 @@
 			"team2Scorers": ["Uday","Manoj"]
 		}, {
 			"id": "7",
-			"matchDay": "SAT JUN 5, 2016",
+			"matchDay": "SUN JUN 5, 2016",
 			"matchStatus": "future",
 			"matchKickOffTime": "10:00 AM",
 			"matchPhase": "FIRST ROUND",
@@ -88,7 +88,7 @@
 			"team2Scorers": []
 		}, {
 			"id": "8",
-			"matchDay": "SAT JUN 5, 2016",
+			"matchDay": "SUN JUN 5, 2016",
 			"matchStatus": "future",
 			"matchKickOffTime": "3:00 PM",
 			"matchPhase": "FIRST ROUND",
@@ -100,7 +100,7 @@
 			"team2Scorers": []
 		}, {
 			"id": "9",
-			"matchDay": "SAT JUN 5, 2016",
+			"matchDay": "SUN JUN 5, 2016",
 			"matchStatus": "future",
 			"matchKickOffTime": "4:30 PM",
 			"matchPhase": "FIRST ROUND",
