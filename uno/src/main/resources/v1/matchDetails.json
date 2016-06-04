@@ -56,11 +56,11 @@
 			"matchKickOffTime": "3:00 PM",
 			"matchPhase": "FIRST ROUND",
 			"team1": "MUNSIYARI BOYS D",
-			"team2": "Team 4",
-			"team1Score": "",
-			"team2Score": "",
+			"team2": "BILJU 11 T.D.",
+			"team1Score": "1",
+			"team2Score": "3",
 			"team1Scorers": [],
-			"team2Scorers": []
+			"team2Scorers": ["Krishna Pipalya","Jagdish Brijwal","Heera Pipaliya"]
 
 		}, {
 			"id": "6",
@@ -69,12 +69,12 @@
 			"matchStatus": "future",
 			"matchKickOffTime": "4:00 PM",
 			"matchPhase": "ROUND OF 16",
-			"team1": "Team 5",
-			"team2": "Team 6",
-			"team1Score": "",
-			"team2Score": "",
+			"team1": "DARKOT B",
+			"team2": "JAITI BOYS B",
+			"team1Score": "0",
+			"team2Score": "2",
 			"team1Scorers": [],
-			"team2Scorers": []
+			"team2Scorers": ["Uday","Manoj"]
 		}, {
 			"id": "7",
 			"matchDay": "THU JUN 2, 2016",
