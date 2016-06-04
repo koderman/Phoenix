@@ -3,24 +3,29 @@
   "code": 200,
   "scorers": [
     { 
-      "scorerName": "Ruchi Rawat",
-      "team":"Nanasem United",
-      "goals":"14"
+      "scorerName": "Krishna Pipalya",
+      "team":"Bilju Eleven",
+      "goals":"1"
     },
     { 
-      "scorerName": "Ruchin Rawat",
-      "team":"Delhi United",
-      "goals":"13"
+      "scorerName": "Heera Pipaliya",
+      "team":"Bilju Eleven",
+      "goals":"1"
     },
      { 
-      "scorerName": "Mohit Rawat",
-      "team":"Almora Avengers abig name team",
-      "goals":"8"
-    },
+      "scorerName": "Jagdish Brijwal",
+      "team":"Bilju Eleven",
+      "goals":"1"
+     },
      { 
-      "scorerName": "Rahul Pangtey",
-      "team":"Tejam Titans",
-      "goals":"6"
+      "scorerName": "Uday",
+      "team":"Jaiti Boys",
+      "goals":"1"
+    },
+    { 
+      "scorerName": "Manoj",
+      "team":"Jaiti Boys",
+      "goals":"1"
     }
   ]
  }
