@@ -137,14 +137,14 @@
 		}, {
 			"id": "12",
 			"matchDay": "MON JUN 5, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "4:30 PM",
 			"matchPhase": "FIRST ROUND",
 			"team1": "ASSAM REGIMENT",
 			"team2": "NEW BOYS RANTHI",
-			"team1Score": "",
-			"team2Score": "",
-			"team1Scorers": [],
+			"team1Score": "3",
+			"team2Score": "0",
+			"team1Scorers": ["LH Jwala(2)","Simingtham"],
 			"team2Scorers": []
 		}
 
