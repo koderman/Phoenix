@@ -77,37 +77,37 @@
 		}, {
 			"id": "7",
 			"matchDay": "SUN JUN 5, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "10:00 AM",
 			"matchPhase": "FIRST ROUND",
 			"team1": "STATION BHUMKAPANI LOCAL BOYS",
 			"team2": "S.S.M. OLD BOYS B",
-			"team1Score": "",
-			"team2Score": "",
-			"team1Scorers": [],
-			"team2Scorers": []
+			"team1Score": "0",
+			"team2Score": "5",
+			"team1Scorers": [""],
+			"team2Scorers": ["Vipul (3),"Shubham","Vikas"]
 		}, {
 			"id": "8",
 			"matchDay": "SUN JUN 5, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "3:00 PM",
 			"matchPhase": "FIRST ROUND",
 			"team1": "MUNSIYARI BOYS B",
 			"team2": "F.C. TALL BUNGA",
-			"team1Score": "",
-			"team2Score": "",
+			"team1Score": "3",
+			"team2Score": "1",
 			"team1Scorers": [],
 			"team2Scorers": []
 		}, {
 			"id": "9",
 			"matchDay": "SUN JUN 5, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "4:30 PM",
 			"matchPhase": "FIRST ROUND",
 			"team1": "DARKOT A",
 			"team2": "DIDIHAT",
-			"team1Score": "",
-			"team2Score": "",
+			"team1Score": "3",
+			"team2Score": "0",
 			"team1Scorers": [],
 			"team2Scorers": []
 		}
