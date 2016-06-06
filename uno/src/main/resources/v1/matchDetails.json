@@ -113,15 +113,15 @@
 		}, {
 			"id": "10",
 			"matchDay": "MON JUN 6, 2016",
-			"matchStatus": "",
+			"matchStatus": "done",
 			"matchKickOffTime": "9:30 PM",
 			"matchPhase": "FIRST ROUND",
 			"team1": "DEHRADUN FC",
 			"team2": "B.Y.C. DARANTI",
-			"team1Score": "5",
+			"team1Score": "6",
 			"team2Score": "1",
-			"team1Scorers": ["Rajan Negi"],
-			"team2Scorers": []
+			"team1Scorers": ["Arun","Amit","Himanshu","Akash","Mukul (2)"],
+			"team2Scorers": ["Munna"]
 		}, {
 			"id": "11",
 			"matchDay": "MON JUN 6, 2016",
