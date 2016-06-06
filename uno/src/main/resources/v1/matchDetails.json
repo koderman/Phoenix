@@ -118,8 +118,8 @@
 			"matchPhase": "FIRST ROUND",
 			"team1": "DEHRADUN FC",
 			"team2": "B.Y.C. DARANTI",
-			"team1Score": "",
-			"team2Score": "",
+			"team1Score": "1",
+			"team2Score": "1",
 			"team1Scorers": ["Rajan Negi"],
 			"team2Scorers": []
 		}, {
