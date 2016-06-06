@@ -84,8 +84,8 @@
 			"team2": "S.S.M. OLD BOYS B",
 			"team1Score": "0",
 			"team2Score": "5",
-			"team1Scorers": [""],
-			"team2Scorers": ["Vipul (3),"Shubham","Vikas"]
+			"team1Scorers": [],
+			"team2Scorers": ["Vipul (3)","Shubham","Vikas"]
 		}, {
 			"id": "8",
 			"matchDay": "SUN JUN 5, 2016",
