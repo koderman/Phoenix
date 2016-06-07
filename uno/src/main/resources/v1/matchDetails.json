@@ -150,15 +150,15 @@
 		{
 			"id": "13",
 			"matchDay": "TUE JUN 7, 2016",
-			"matchStatus": "progress",
+			"matchStatus": "done",
 			"matchKickOffTime": "9:30 PM",
 			"matchPhase": "FIRST ROUND",
 			"team1": "J.S.S LUCKNOW",
 			"team2": "GHORPATTA HEROES",
-			"team1Score": "",
-			"team2Score": "",
+			"team1Score": "0",
+			"team2Score": "1",
 			"team1Scorers": [],
-			"team2Scorers": []
+			"team2Scorers": ["Ballu Suyal"]
 		},{
 			"id": "14",
 			"matchDay": "TUE JUN 7, 2016",
