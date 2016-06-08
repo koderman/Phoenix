@@ -186,14 +186,14 @@
 		},{
 			"id": "16",
 			"matchDay": "WED JUN 8, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "9:30 AM",
 			"matchPhase": "ROUND OF 16",
 			"team1": "MUNSIYARI BOYS B",
 			"team2": "DARKOT A",
-			"team1Score": "",
-			"team2Score": "",
-			"team1Scorers": [],
+			"team1Score": "1",
+			"team2Score": "0",
+			"team1Scorers": ["Garish Suyal"],
 			"team2Scorers": []
 		},{
 			"id": "17",
