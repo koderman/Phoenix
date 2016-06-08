@@ -198,13 +198,13 @@
 		},{
 			"id": "17",
 			"matchDay": "WED JUN 8, 2016",
-			"matchStatus": "future",
+			"matchStatus": "progress",
 			"matchKickOffTime": "2:30 PM",
-			"matchPhase": "ROUND OF 16",
+			"matchPhase": "FIRST ROUND",
 			"team1": "SARMOLI FC",
 			"team2": "Y.T.F.C. KANPUR",
-			"team1Score": "",
-			"team2Score": "",
+			"team1Score": "0",
+			"team2Score": "3",
 			"team1Scorers": [],
 			"team2Scorers": []
 		},{
