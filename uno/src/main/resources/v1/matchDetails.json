@@ -198,25 +198,25 @@
 		},{
 			"id": "17",
 			"matchDay": "WED JUN 8, 2016",
-			"matchStatus": "progress",
+			"matchStatus": "done",
 			"matchKickOffTime": "2:30 PM",
 			"matchPhase": "FIRST ROUND",
 			"team1": "SARMOLI FC",
 			"team2": "Y.T.F.C. KANPUR",
-			"team1Score": "0",
-			"team2Score": "3",
+			"team1Score": "1",
+			"team2Score": "4",
 			"team1Scorers": [],
 			"team2Scorers": []
 		},{
 			"id": "18",
 			"matchDay": "WED JUN 7, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "4:00 PM",
 			"matchPhase": "ROUND OF 16",
 			"team1": "DEHRADUN FC",
 			"team2": "BILJU ELEVEN TD",
-			"team1Score": "",
-			"team2Score": "",
+			"team1Score": "0",
+			"team2Score": "2",
 			"team1Scorers": [],
 			"team2Scorers": []
 		}
