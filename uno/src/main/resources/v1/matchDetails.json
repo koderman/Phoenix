@@ -227,8 +227,8 @@
 			"matchPhase": "ROUND OF 16",
 			"team1": "BARRY ELEVEN DELHI",
 			"team2": "JAITI BOYS A",
-			"team1Score": "",
-			"team2Score": "",
+			"team1Score": "1",
+			"team2Score": "4",
 			"team1Scorers": [],
 			"team2Scorers": []
 		},{
@@ -239,8 +239,8 @@
 			"matchPhase": "ROUND OF 16",
 			"team1": "JOHARI BOYS A",
 			"team2": "JAITI BOYS B",
-			"team1Score": "",
-			"team2Score": "",
+			"team1Score": "7",
+			"team2Score": "0",
 			"team1Scorers": [],
 			"team2Scorers": []
 		}
@@ -252,8 +252,8 @@
 			"matchPhase": "ROUND OF 16",
 			"team1": "MUNSIYARI BOYS A",
 			"team2": "ASSAM REGIMENT",
-			"team1Score": "",
-			"team2Score": "",
+			"team1Score": "0",
+			"team2Score": "2",
 			"team1Scorers": [],
 			"team2Scorers": []
 		}
