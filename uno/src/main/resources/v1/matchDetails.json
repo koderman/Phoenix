@@ -222,7 +222,7 @@
 		},{
 			"id": "19",
 			"matchDay": "THU JUN 8, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "9:30 AM",
 			"matchPhase": "ROUND OF 16",
 			"team1": "BARRY ELEVEN DELHI",
@@ -234,7 +234,7 @@
 		},{
 			"id": "20",
 			"matchDay": "THU JUN 8, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "2:30 PM",
 			"matchPhase": "ROUND OF 16",
 			"team1": "JOHARI BOYS A",
@@ -247,7 +247,7 @@
 		,{
 			"id": "21",
 			"matchDay": "THU JUN 8, 2016",
-			"matchStatus": "future",
+			"matchStatus": " done",
 			"matchKickOffTime": "4:00 PM",
 			"matchPhase": "ROUND OF 16",
 			"team1": "MUNSIYARI BOYS A",
