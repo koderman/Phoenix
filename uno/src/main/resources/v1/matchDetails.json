@@ -317,7 +317,7 @@
 		}, {
 			"id": "27",
 			"matchDay": "SUN JUN 12, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "2:30 PM",
 			"matchPhase": "QUARTER FINAL",
 			"team1": "S.S.M. OLD BOYS A",
@@ -329,16 +329,41 @@
 		}, {
 			"id": "28",
 			"matchDay": "SUN JUN 12, 2016",
-			"matchStatus": "future",
+			"matchStatus": "done",
 			"matchKickOffTime": "4:00 PM",
 			"matchPhase": "QUARTER FINAL",
 			"team1": "S.S.M. OLD BOYS B",
 			"team2": "ASSAM REGIMENT",
+			"team1Score": "1",
+			"team2Score": "0",
+			"team1Scorers": [],
+			"team2Scorers": []
+		}, {
+			"id": "29",
+			"matchDay": "MON JUN 13, 2016",
+			"matchStatus": "done",
+			"matchKickOffTime": "4:00 PM",
+			"matchPhase": "SEMI FINAL",
+			"team1": "S.S.M. OLD BOYS B",
+			"team2": "JOHARI BOYS A",
+			"team1Score": "0",
+			"team2Score": "1",
+			"team1Scorers": [],
+			"team2Scorers": []
+		}, {
+			"id": "30",
+			"matchDay": "TUE JUN 13, 2016",
+			"matchStatus": "progress",
+			"matchKickOffTime": "4:00 PM",
+			"matchPhase": "SEMI FINAL",
+			"team1": "S.S.M. OLD BOYS A",
+			"team2": "M.B.F.C A",
 			"team1Score": "",
 			"team2Score": "",
 			"team1Scorers": [],
 			"team2Scorers": []
 		}
+		
 
 	]
 }
