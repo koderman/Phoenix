@@ -353,13 +353,13 @@
 		}, {
 			"id": "30",
 			"matchDay": "TUE JUN 14, 2016",
-			"matchStatus": "progress",
+			"matchStatus": "done",
 			"matchKickOffTime": "4:00 PM",
 			"matchPhase": "SEMI FINAL",
 			"team1": "S.S.M. OLD BOYS A",
 			"team2": "M.B.F.C A",
-			"team1Score": "",
-			"team2Score": "",
+			"team1Score": "2",
+			"team2Score": "3",
 			"team1Scorers": [],
 			"team2Scorers": []
 		}
